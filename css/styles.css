@@ -1,0 +1,23 @@
+h2 {
+  text-align: center;
+}
+.container {
+  display: flex;}
+
+img {
+  width: 400px;
+  height: 300px;
+  margin: 30px;
+  
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+li {
+  flex: 50%;
+  margin: 30px;
+}
